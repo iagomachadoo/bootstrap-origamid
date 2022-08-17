@@ -1,9 +1,0 @@
--O grid do bootstrap começa com uma classe container, é ela que segura todo o conteúdo;
-
--A próxima classe usada é a row e é nela onde definimos as colunas;
-
--A classe das colunas tem que ser colocadas nos elementos que estejam diretamente dentro da row;
-
--Por exemplo, ao utilizar uma class="col-sm", a colunas serão criadas para telas que tenham mais de 576px de largura. Assim, quando a tela é menor que 576px de largura, as colunas não são mais aplicadas;
-
--O grid do bootstrap é divido em 12 colunas;
